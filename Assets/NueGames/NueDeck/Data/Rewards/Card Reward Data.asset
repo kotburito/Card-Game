@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47c4f39c13d642f6985cca3f815566cb, type: 3}
+  m_Name: Card Reward Data
+  m_EditorClassIdentifier: 
+  rewardSprite: {fileID: 7599432968757225573, guid: a707003c96586cc41b22ae32a9cdb636, type: 3}
+  rewardDescription: Choose card
+  rewardCardList:
+  - {fileID: 11400000, guid: 71dbb103194d7174f892f17d8f6956e4, type: 2}
+  - {fileID: 11400000, guid: de55134546247c143b5bad2f681d0d83, type: 2}
+  - {fileID: 11400000, guid: e94040863cc843b479352a7bd13930fa, type: 2}
+  - {fileID: 11400000, guid: 37bb07241297d584c808f5e6781c2f92, type: 2}
+  - {fileID: 11400000, guid: 30a8913bb06cd29419dcc9ce24aae0b0, type: 2}
+  - {fileID: 11400000, guid: 1fcabb206f20e604d805b121eb28e981, type: 2}
+  - {fileID: 11400000, guid: 101e4b3480192f147bd7b7106d1410e2, type: 2}
+  - {fileID: 11400000, guid: dae602d7b5063e347813862d35db2915, type: 2}
+  - {fileID: 11400000, guid: 4dbd2470ac3e3dc4faea88e2b86d65a5, type: 2}
+  - {fileID: 11400000, guid: 5df7b3dfdc5ec7842b28294cf585762c, type: 2}
+  - {fileID: 11400000, guid: e2b1ae5f50ea3ef488593d81432dd7ca, type: 2}
+  - {fileID: 11400000, guid: ea4cf6fe8652d2544ab9316f438ccc2d, type: 2}
+  - {fileID: 11400000, guid: 97392c824000e4049a6299b2cef0e84d, type: 2}
